@@ -5,6 +5,8 @@ Hello this is my github portfolio.
 I'm working on Learn to Cloud Guide
 
 I will update as I progress on my learning.
+
+Hello I am pulling this on VS Code
 <!--
 **amanicoombs/amanicoombs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
